@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Menu 1",
+        "position": "mainMenu",
+        "items": [
+            {
+                "id": 1647490469699,
+                "label": "Menu Item 1",
+                "title": "",
+                "type": "post",
+                "target": "_self",
+                "rel": "",
+                "link": 1,
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            },
+            {
+                "id": 1647490542396,
+                "label": "Tag for Device 1",
+                "title": "",
+                "type": "tag",
+                "target": "_self",
+                "rel": "",
+                "link": 1,
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            }
+        ]
+    }
+]
